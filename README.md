@@ -7,7 +7,7 @@
 		<title>manga</title>
     <link rel="stylesheet" href="page_1.css"/>
     
-	</head>
+</head>
   <div class="container">
   <body>
     <a href="./site de manga projet.html">Mon blog</a>
@@ -28,10 +28,10 @@
         <br><li><strong>YURI</strong><em><br>(le yuri parlent et mettent en scène des relations homotypique féminin).</br></em><img src="https://res.booklive.jp/412019/001/thumbnail/2L.jpg"height="170" width="150"controls/><br><strong>pietà</strong><a href="https://fr.wikipedia.org/wiki/Piet%C3%A0_(manga)"target="_blank">&nbsp;par Nanae Haruno</a><br></li>
         <br><li><strong>YAOI</strong><em><br>(c’est l’exact opposé du genre yuri).</br></em><img src="https://www.anime-store.fr/as/images/visuels/produit_derive/moyenne/3456.webp"height="140" width="120"/><br><strong>10ans de nos vie</strong><a href="https://www.nautiljon.com/actualite/mangas/le+manga+10+ans+de+nos+vies+aux+%C3%A9ditions+hana-14597.html"target="_blank">&nbsp;par Hitomi</a><br></li>
         
-      </ul></br>
+<ul></br>
       <br><h3><strong>Les manga les plus connus en France</strong></h3>
       <p>Depuis l'arriver des mangas en France dans les année 70 certaine oeuvre on sue conquérir le cœur des Français je vais vous lister quelques exemples ci-dessous:</p>
-      <ul>
+</ul>
         <li><strong>Dragon ball</strong><br><p> Sortie en France le 17 mai 1993 en librairie aux éditions Glénat,plus de 26 millions de tome vendus en France .</p><img src="https://images-na.ssl-images-amazon.com/images/I/81TkSJw2vqL.jpg"height="170" width="150"/><br><a href="https://fr.wikipedia.org/wiki/Akira_Toriyama"target="_blank">&nbsp;par Akira Toriyama</a></li>
         <br><li><strong>One piece</strong><br><p>Sorti en France le 1er septembre 2000 en librairie au éditions Glénat,plus de 29,6 millions de tome vendus en France.</p><img src="https://images-na.ssl-images-amazon.com/images/I/91t7YlWwGfL.jpg"height="170"width="150"/><br><a href="https://fr.wikipedia.org/wiki/Eiichir%C5%8D_Oda"target="_blank">par Eiichiro Oda</a></li>
         <br><li><strong>Naruto</strong><br><p>Sortie en France en mars 2002 en librairie au éditions Kana,plus de 25 millions de tome vendus en France.</p><img src="https://i0.wp.com/lesitedujapon.com/wp-content/uploads/Naruto-01.jpg?ssl=1"height="170" width="150"/><br><a href="https://fr.wikipedia.org/wiki/Masashi_Kishimoto?tableofcontents=0"target="_blank">par Masashi Kishimoto</a></li>                               
